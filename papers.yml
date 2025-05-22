@@ -211,35 +211,6 @@
   file: 11.pdf
   id: 11
   title: Zero-Shot Query Generation for Approximate Search Algorithm Evaluation
-- abstract: This paper addresses the problem of data
-    interchange involving SIL FLEx, a software widely used for morphological
-    glossing of texts in underresourced languages. Interlinear glossed texts (IGT)
-    created in FLEx can be exported in a well defined XML format. However, IGT
-    created in other programs (e.g. Toolbox or
-    ELAN) or even in another version of the same FLEx project cannot be imported,
-    which blocks the reuse of legacy data as well as roundtrips involving FLEx. We
-    present a solution using Python and XSLT which was successfully used to merge a
-    large collection of legacy texts in Forest and Tundra Enets (formerly glossed in Toolbox)
-    with an existing FLEx project.
-  attributes:
-    paper_type: abstract
-    presentation_type: poster
-  authors:
-  - email: aleksandr.riaposov@uni-hamburg.de
-    first_name: Aleksandr
-    instituition: University of Hamburg
-    last_name: Riaposov
-  - email: alexandre.arkhipov@uni-hamburg.de
-    first_name: Alexandre
-    instituition: University of Hamburg
-    last_name: Arkhipov
-  - email: elena.lazarenko@uni-hamburg.de
-    first_name: Elena
-    instituition: University of Hamburg
-    last_name: Lazarenko
-  file: 16.pdf
-  id: 16
-  title: Importing complete interlinear glossed texts into SIL FLEx
 - abstract: Rule-based grammatical error correction has
     long been seen as the most effective way to
     create user-friendly end-user systems for gram-
@@ -340,51 +311,6 @@
   file: 18.pdf
   id: 18
   title: Speech Technologies Datasets for African Under-Served Languages
-- abstract: ''
-  attributes:
-    paper_type: abstract
-    presentation_type: oral
-  authors:
-  - email: chatgptclarainstance@proton.me
-    first_name: Chatgpt
-    instituition: University of South Australia
-    last_name: C-Lara-Instance
-  - email: Belinda.Chiera@unisa.au.edu
-    first_name: Belinda
-    instituition: University of South Australia
-    last_name: Chiera
-  - email: anne-laure.dotte@unc.nc
-    first_name: Anne-Laure
-    instituition: University of New Caledonia
-    last_name: Dotte
-  - email: stephanie.rabault@unc.nc
-    first_name: StÃ©phanie
-    instituition: University of New Caledonia
-    last_name: Geneix-Rabault
-  - email: christele.maizonniaux@flinders.edu.au
-    first_name: ChristÃ¨le
-    instituition: Flinders University
-    last_name: Maizonniaux
-  - email: sophierendina@gmail.com
-    first_name: Sophie
-    instituition: Independent scholar
-    last_name: Rendina
-  - email: Manny.Rayner@unisa.edu.au
-    first_name: Manny
-    instituition: University of South Australia
-    last_name: Rayner
-  - email: fabrice.wacalie@unc.nc
-    first_name: Fabrice
-    instituition: University of New Caledonia
-    last_name: Wacalie
-  - email: pauline.welby@cnrs.fr
-    first_name: Pauline
-    instituition: CNRS
-    last_name: Welby
-  file: 20.pdf
-  id: 20
-  title: Building culturally relevant multimedia resources for Indigenous languages
-    using AI tools and collaborative development
 - abstract: This paper presents work towards a morphologi-
     cal transducer for Hän, a Dene language spoken
     in Alaska and the Yukon Territory. We present
@@ -610,30 +536,6 @@
   id: 28
   title: Developing a Mixed-Methods Pipeline for Community-Oriented Digitization of
     Kwak'wala Legacy Texts
-- abstract: ''
-  attributes:
-    paper_type: abstract
-    presentation_type: poster
-  authors:
-  - email: cyang33@student.ubc.ca
-    first_name: Changbing
-    instituition: University of British Columbia
-    last_name: Yang
-  - email: pmandersity@gmail.com
-    first_name: Patricia
-    instituition: Revitalization Technology
-    last_name: Anderson
-  - email: gagyapong@ufl.edu
-    first_name: Godfred
-    instituition: University of Florida
-    last_name: Agyapong
-  - email: smoeller@ufl.edu
-    first_name: Sarah
-    instituition: University of Florida
-    last_name: Moeller
-  file: 29.pdf
-  id: 29
-  title: Adaptability of NLP Annotation Tools for Linguistics
 - abstract: This paper describes the process and learn-
     ing outcomes of a three-day workshop on ma-
     chine learning basics for documentary linguists.
@@ -716,48 +618,6 @@
   file: 31.pdf
   id: 31
   title: Universal Dependencies for Amahuaca
-- abstract: ''
-  attributes:
-    paper_type: long
-    presentation_type: oral
-  authors:
-  - email: robert.pugh408@gmail.com
-    first_name: Robert
-    instituition: Indiana University, Kaltepetlahtol
-    last_name: Pugh
-  - email: cheyennewing@arizona.edu
-    first_name: Cheyenne
-    instituition: University of Arizona
-    last_name: Wing
-  - email: marijuarez012000@gmail.com
-    first_name: "Mar\x92a  Ximena"
-    instituition: Kaltepetlahtol
-    last_name: Juarez Huerta
-  - email: cualtzintlahtol@gmail.com
-    first_name: çngeles
-    instituition: Kaltepetlahtol
-    last_name: MÃ¡rquez HernÃ¡ndez
-  - email: ftyers@prompsit.com
-    first_name: Francis M.
-    instituition: Indiana University, Kaltepetlahtol
-    last_name: Tyers
-  file: 33.pdf
-  id: 33
-  title: 'Ihquin tlahtouah in Tetelancingocah: An annotated, multi-purpose audio and
-    text corpus of Western Sierra Puebla Nahuatl'
-- abstract: ''
-  attributes:
-    paper_type: abstract
-    presentation_type: poster
-  authors:
-  - email: bhunt6@gmu.edu
-    first_name: Benjamin
-    instituition: George Mason University
-    last_name: Hunt
-  file: 34.pdf
-  id: 34
-  title: Developing a toolkit for community-led language documentation and reclamation
-    in Akuzipik
 - abstract: 'This paper explores finetuning Whisper for transcribing audio from linguistic
     elicitation of Tira, a Heiban language of Sudan. Audio originates from linguistic fieldwork and is bilingual in English and Tira.
     We finetune Whisper large-v3 using hand-labeled Tira audio and evaluate the resulting
