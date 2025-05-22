@@ -20,23 +20,6 @@
   file: 3.pdf
   id: 3
   title: Formalizing the Morphology of Rromani Adjectives
-- abstract: ''
-  attributes:
-    paper_type: abstract
-    presentation_type: poster
-  authors:
-  - email: hadeben3@ukzn.ac.za
-    first_name: Njabulo
-    instituition: Computational lingust
-    last_name: Hadebe
-  - email: Mngadik2@ukzn.ac.za
-    first_name: Khumbulani
-    instituition: Director
-    last_name: Mngadi
-  file: 4.pdf
-  id: 4
-  title: 'From Data Collection to Usable Corpus: The Development of the isiZulu National
-    Corpus'
 - abstract: Parallel sentence mining is crucial for down-
     stream tasks such as Machine Translation, especially for low-resource languages, where such
     resources are scarce. In this context, we apply a pipeline approach with contextual embeddings
@@ -228,23 +211,6 @@
   file: 11.pdf
   id: 11
   title: Zero-Shot Query Generation for Approximate Search Algorithm Evaluation
-- abstract: ''
-  attributes:
-    paper_type: abstract
-    presentation_type: oral
-  authors:
-  - email: lorenarocio1@gmail.com
-    first_name: Lorena
-    instituition: Carleton University
-    last_name: Martin Rodriguez
-  - email: christopher.cox@carleton.ca
-    first_name: Christopher
-    instituition: Carleton University
-    last_name: Cox
-  file: 12.pdf
-  id: 12
-  title: User-friendly technology distribution and the language technology development
-    pipeline
 - abstract: This paper addresses the problem of data
     interchange involving SIL FLEx, a software widely used for morphological
     glossing of texts in underresourced languages. Interlinear glossed texts (IGT)
@@ -356,7 +322,7 @@
     instituition: University of Yaounde 1 & Institute of African Digital Humanities
     last_name: Ngami Kamagoua
   - email: joseavom@gmail.com
-    first_name: JosÃ©
+    first_name: José
     instituition: Institute of African Digital Humanities
     last_name: Mpouda Avom
   - email: znyobe@gmail.com
@@ -368,7 +334,7 @@
     instituition: Institute of African Digital Humanities
     last_name: Eloundou Eyenga
   - email: likwaiandre66@gmail.com
-    first_name: AndrÃ©
+    first_name: André
     instituition: University of Douala & Institute of African Digital Humanities
     last_name: Likwai
   file: 18.pdf
